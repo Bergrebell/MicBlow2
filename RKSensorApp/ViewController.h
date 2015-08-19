@@ -11,10 +11,6 @@
 #import <CoreMedia/CoreMedia.h>
 #import <CoreAudio/CoreAudioTypes.h>
 
-// Luminosity2
-#import <ImageIO/ImageIO.h>
-
-#define CAPTURE_FRAMES_PER_SECOND		20
 
 @interface ViewController : UIViewController {
     
@@ -35,11 +31,8 @@
 
 
 -(void)levelTimerCallback:(NSTimer *)timer;
-// Luminosity2
 
-- (void)captureOutput:(AVCaptureOutput *)captureOutput
-didOutputSampleBuffer:(CMSampleBufferRef)sampleBuffer
-       fromConnection:(AVCaptureConnection *)connection;
+
 
 
 

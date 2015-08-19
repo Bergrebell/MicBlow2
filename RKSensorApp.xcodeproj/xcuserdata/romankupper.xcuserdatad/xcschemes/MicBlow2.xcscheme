@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "924413281B82039F00B7160A"
-               BuildableName = "MicBlow2.app"
-               BlueprintName = "MicBlow2"
-               ReferencedContainer = "container:MicBlow2.xcodeproj">
+               BuildableName = "RKSensorApp.app"
+               BlueprintName = "RKSensorApp"
+               ReferencedContainer = "container:RKSensorApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "924413411B82039F00B7160A"
-               BuildableName = "MicBlow2Tests.xctest"
-               BlueprintName = "MicBlow2Tests"
-               ReferencedContainer = "container:MicBlow2.xcodeproj">
+               BuildableName = "RKSensorAppTests.xctest"
+               BlueprintName = "RKSensorAppTests"
+               ReferencedContainer = "container:RKSensorApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "924413411B82039F00B7160A"
-               BuildableName = "MicBlow2Tests.xctest"
-               BlueprintName = "MicBlow2Tests"
-               ReferencedContainer = "container:MicBlow2.xcodeproj">
+               BuildableName = "RKSensorAppTests.xctest"
+               BlueprintName = "RKSensorAppTests"
+               ReferencedContainer = "container:RKSensorApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "924413281B82039F00B7160A"
-            BuildableName = "MicBlow2.app"
-            BlueprintName = "MicBlow2"
-            ReferencedContainer = "container:MicBlow2.xcodeproj">
+            BuildableName = "RKSensorApp.app"
+            BlueprintName = "RKSensorApp"
+            ReferencedContainer = "container:RKSensorApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "924413281B82039F00B7160A"
-            BuildableName = "MicBlow2.app"
-            BlueprintName = "MicBlow2"
-            ReferencedContainer = "container:MicBlow2.xcodeproj">
+            BuildableName = "RKSensorApp.app"
+            BlueprintName = "RKSensorApp"
+            ReferencedContainer = "container:RKSensorApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "924413281B82039F00B7160A"
-            BuildableName = "MicBlow2.app"
-            BlueprintName = "MicBlow2"
-            ReferencedContainer = "container:MicBlow2.xcodeproj">
+            BuildableName = "RKSensorApp.app"
+            BlueprintName = "RKSensorApp"
+            ReferencedContainer = "container:RKSensorApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -27,7 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		924413291B82039F00B7160A /* MicBlow2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MicBlow2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		924413291B82039F00B7160A /* RKSensorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RKSensorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9244132D1B82039F00B7160A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9244132E1B82039F00B7160A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		924413301B82039F00B7160A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -36,7 +36,7 @@
 		924413341B82039F00B7160A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		924413391B82039F00B7160A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		9244133C1B82039F00B7160A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		924413421B82039F00B7160A /* MicBlow2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MicBlow2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		924413421B82039F00B7160A /* RKSensorAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RKSensorAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		924413471B82039F00B7160A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		924413481B82039F00B7160A /* MicBlow2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MicBlow2Tests.m; sourceTree = "<group>"; };
 		924413521B82041500B7160A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
@@ -72,8 +72,8 @@
 		9244132A1B82039F00B7160A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				924413291B82039F00B7160A /* MicBlow2.app */,
-				924413421B82039F00B7160A /* MicBlow2Tests.xctest */,
+				924413291B82039F00B7160A /* RKSensorApp.app */,
+				924413421B82039F00B7160A /* RKSensorAppTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,9 +122,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		924413281B82039F00B7160A /* MicBlow2 */ = {
+		924413281B82039F00B7160A /* RKSensorApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9244134C1B82039F00B7160A /* Build configuration list for PBXNativeTarget "MicBlow2" */;
+			buildConfigurationList = 9244134C1B82039F00B7160A /* Build configuration list for PBXNativeTarget "RKSensorApp" */;
 			buildPhases = (
 				924413251B82039F00B7160A /* Sources */,
 				924413261B82039F00B7160A /* Frameworks */,
@@ -134,14 +134,14 @@
 			);
 			dependencies = (
 			);
-			name = MicBlow2;
+			name = RKSensorApp;
 			productName = MicBlow2;
-			productReference = 924413291B82039F00B7160A /* MicBlow2.app */;
+			productReference = 924413291B82039F00B7160A /* RKSensorApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		924413411B82039F00B7160A /* MicBlow2Tests */ = {
+		924413411B82039F00B7160A /* RKSensorAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9244134F1B82039F00B7160A /* Build configuration list for PBXNativeTarget "MicBlow2Tests" */;
+			buildConfigurationList = 9244134F1B82039F00B7160A /* Build configuration list for PBXNativeTarget "RKSensorAppTests" */;
 			buildPhases = (
 				9244133E1B82039F00B7160A /* Sources */,
 				9244133F1B82039F00B7160A /* Frameworks */,
@@ -152,9 +152,9 @@
 			dependencies = (
 				924413441B82039F00B7160A /* PBXTargetDependency */,
 			);
-			name = MicBlow2Tests;
+			name = RKSensorAppTests;
 			productName = MicBlow2Tests;
-			productReference = 924413421B82039F00B7160A /* MicBlow2Tests.xctest */;
+			productReference = 924413421B82039F00B7160A /* RKSensorAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -175,7 +175,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 924413241B82039F00B7160A /* Build configuration list for PBXProject "MicBlow2" */;
+			buildConfigurationList = 924413241B82039F00B7160A /* Build configuration list for PBXProject "RKSensorApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -188,8 +188,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				924413281B82039F00B7160A /* MicBlow2 */,
-				924413411B82039F00B7160A /* MicBlow2Tests */,
+				924413281B82039F00B7160A /* RKSensorApp */,
+				924413411B82039F00B7160A /* RKSensorAppTests */,
 			);
 		};
 /* End PBXProject section */
@@ -238,7 +238,7 @@
 /* Begin PBXTargetDependency section */
 		924413441B82039F00B7160A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 924413281B82039F00B7160A /* MicBlow2 */;
+			target = 924413281B82039F00B7160A /* RKSensorApp */;
 			targetProxy = 924413431B82039F00B7160A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -341,7 +341,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MicBlow2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RKSensorApp;
 			};
 			name = Debug;
 		};
@@ -351,7 +351,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MicBlow2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RKSensorApp;
 			};
 			name = Release;
 		};
@@ -369,7 +369,7 @@
 				);
 				INFOPLIST_FILE = MicBlow2Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RKSensorAppTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MicBlow2.app/MicBlow2";
 			};
 			name = Debug;
@@ -384,7 +384,7 @@
 				);
 				INFOPLIST_FILE = MicBlow2Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RKSensorAppTests;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MicBlow2.app/MicBlow2";
 			};
 			name = Release;
@@ -392,7 +392,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		924413241B82039F00B7160A /* Build configuration list for PBXProject "MicBlow2" */ = {
+		924413241B82039F00B7160A /* Build configuration list for PBXProject "RKSensorApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9244134A1B82039F00B7160A /* Debug */,
@@ -401,7 +401,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9244134C1B82039F00B7160A /* Build configuration list for PBXNativeTarget "MicBlow2" */ = {
+		9244134C1B82039F00B7160A /* Build configuration list for PBXNativeTarget "RKSensorApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9244134D1B82039F00B7160A /* Debug */,
@@ -410,7 +410,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9244134F1B82039F00B7160A /* Build configuration list for PBXNativeTarget "MicBlow2Tests" */ = {
+		9244134F1B82039F00B7160A /* Build configuration list for PBXNativeTarget "RKSensorAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				924413501B82039F00B7160A /* Debug */,
