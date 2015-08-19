@@ -84,8 +84,8 @@
 				924413301B82039F00B7160A /* AppDelegate.h */,
 				924413311B82039F00B7160A /* AppDelegate.m */,
 				924413331B82039F00B7160A /* ViewController.h */,
-				924413521B82041500B7160A /* Main.storyboard */,
 				924413341B82039F00B7160A /* ViewController.m */,
+				924413521B82041500B7160A /* Main.storyboard */,
 				924413391B82039F00B7160A /* Images.xcassets */,
 				9244133B1B82039F00B7160A /* LaunchScreen.xib */,
 				9244132C1B82039F00B7160A /* Supporting Files */,
@@ -408,6 +408,7 @@
 				9244134E1B82039F00B7160A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9244134F1B82039F00B7160A /* Build configuration list for PBXNativeTarget "MicBlow2Tests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +417,7 @@
 				924413511B82039F00B7160A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
